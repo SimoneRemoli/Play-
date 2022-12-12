@@ -2,7 +2,7 @@
 #include <stdbool.h>
 #include <stdio.h>
 
-/*Simone Remoli_Homework 0280114 matricola*/
+/*Simone Remoli*/
 
 bool validate(unsigned char (*grid)[9][9]);
 void solve(unsigned char (*problem)[9][9]);
