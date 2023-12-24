@@ -9,3 +9,5 @@ The problem was when I got older, because I think I was someone who immediately 
 However, when I became passionate about IT, I began to think that that moment should return: well, yes, it has returned. Thanks to the programming.
 This is why I always say:
 **"Programming is a game."**
+
+There is also the idea of developing artificial intelligence for console applications, i.e. applying an algorithm that increases the difficulty of the game.
