@@ -10,4 +10,5 @@ However, when I became passionate about IT, I began to think that that moment sh
 This is why I always say:
 **"Programming is a game."**
 
-There is also the idea of developing artificial intelligence for console applications, i.e. applying an algorithm that increases the difficulty of the game.
+There is also the idea of developing artificial intelligence for console applications, i.e. applying an algorithm that increases the difficulty of the game. 
+MODIFICA LA LINEA 14
